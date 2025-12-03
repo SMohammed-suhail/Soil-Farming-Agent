@@ -7,6 +7,8 @@ A smart agriculture platform that empowers farmers with comprehensive soil data 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Latest-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-Enabled-orange)
 
+live demo: https://soil-farmingagent.netlify.app/
+
 ## 🌾 About
 
 Soil Farming Agent is a modern web application designed to revolutionize farming practices by providing farmers with detailed soil information and easy access to agricultural distributors. Our platform helps farmers make data-driven decisions to optimize crop yields and improve soil health.
